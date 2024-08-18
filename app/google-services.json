@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "665778211154",
+    "project_id": "budgettracker-46b61",
+    "storage_bucket": "budgettracker-46b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665778211154:android:7424686d0aafdcd2ba928b",
+        "android_client_info": {
+          "package_name": "com.example.budgettracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665778211154-n7208vk9vvo50g50k82beu1aqp8bfscc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUJ4UEuH6zWeSQ9SAlbOjlmm_A8CQjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665778211154-n7208vk9vvo50g50k82beu1aqp8bfscc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665778211154:android:721c1f88a4166856ba928b",
+        "android_client_info": {
+          "package_name": "com.example.isaving2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665778211154-n7208vk9vvo50g50k82beu1aqp8bfscc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUJ4UEuH6zWeSQ9SAlbOjlmm_A8CQjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665778211154-n7208vk9vvo50g50k82beu1aqp8bfscc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

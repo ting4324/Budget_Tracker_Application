@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598126116453",
+    "project_id": "login-app-56bfc",
+    "storage_bucket": "login-app-56bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598126116453:android:9aa55d2d74a2befe31d08c",
+        "android_client_info": {
+          "package_name": "com.example.isaving2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598126116453-cgso1bqsdfmo0q9sf220b0odr8aqio81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0yk-mBAaf82KX7ZAbNRfbKULJDnq2NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598126116453-cgso1bqsdfmo0q9sf220b0odr8aqio81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
