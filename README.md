@@ -1,6 +1,6 @@
 The Budget Tracker Application is a comprehensive tool designed to help users manage their finances. This project includes features for logging in, tracking transactions, and viewing transaction history, making it a valuable resource for budget management.
 
-Features
+
 Firebase features 
 Login/Logout: Secure user authentication and session management.
 Main Menu: Centralized navigation for accessing different sections of the app.
